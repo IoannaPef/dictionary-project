@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <header className="App-header"></header>
         <main>
-          <Dictionary />
+          <Dictionary defaultWord="wine" />
         </main>
         <footer className="App-footer">
           <small>This project was coded by Ioanna Karagkani</small>
